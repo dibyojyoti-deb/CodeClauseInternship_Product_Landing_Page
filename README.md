@@ -1,1 +1,1 @@
-# CodeClauseInternship_Product_Landing_Page
+This is a Product Landing page developed during the internship period under CodeClause.
